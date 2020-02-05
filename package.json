@@ -1,0 +1,11 @@
+{
+  "name": "ma2yarntest",
+  "version": "1.0.0",
+  "description": "part of ma 2, where we are to add jquery",
+  "main": "index.js",
+  "author": "Marie Helen Berger",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
